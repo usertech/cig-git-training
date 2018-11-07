@@ -1,0 +1,24 @@
+{
+  "name": "demo-app-tony",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "build": "neutrino build",
+    "start": "neutrino start"
+  },
+  "dependencies": {
+    "formik": "^1.3.1",
+    "prop-types": "^15.6.2",
+    "react": "^16.6.1",
+    "react-dom": "^16.6.1",
+    "react-hot-loader": "^4.3.12",
+    "react-router-dom": "^4.3.1",
+    "styled-components": "^4.0.3",
+    "yup": "^0.26.6"
+  },
+  "devDependencies": {
+    "@neutrinojs/react": "^8.3.0",
+    "neutrino": "^8.3.0"
+  }
+}
