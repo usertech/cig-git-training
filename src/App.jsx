@@ -13,7 +13,6 @@ export default class App extends Component {
         return (
             <div className="App">
                 <GlobalStyle />
-                <h1>test</h1>
                 <BrowserRouter>
                     <Switch>
                         <Route
